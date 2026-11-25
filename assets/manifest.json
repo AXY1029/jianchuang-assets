@@ -1,5 +1,5 @@
 {
- "updated_at": 1795626570,
+ "updated_at": 1795627407,
  "assets": [
   {
    "name": "参考音频外星人-女声.mp3",
@@ -14,37 +14,44 @@
   {
    "name": "canvas-image-383606106796146944-2ea0cd78-0-d83f08fa4614.jpg",
    "path": "assets/canvas-image-383606106796146944-2ea0cd78-0-d83f08fa4614.jpg",
-   "size": 418973
+   "size": 418973,
+   "thumb": "assets/.thumbs/canvas-image-383606106796146944-2ea0cd78-0-d83f08fa4614.jpg"
   },
   {
    "name": "周川-三视图.png",
    "path": "assets/周川-三视图.png",
-   "size": 1861962
+   "size": 1861962,
+   "thumb": "assets/.thumbs/周川-三视图.jpg"
   },
   {
    "name": "外星人-璃雾.png",
    "path": "assets/外星人-璃雾.png",
-   "size": 2310210
+   "size": 2310210,
+   "thumb": "assets/.thumbs/外星人-璃雾.jpg"
   },
   {
    "name": "外星人三视图.png",
    "path": "assets/外星人三视图.png",
-   "size": 1806001
+   "size": 1806001,
+   "thumb": "assets/.thumbs/外星人三视图.jpg"
   },
   {
    "name": "普通人-周川.png",
    "path": "assets/普通人-周川.png",
-   "size": 2266373
+   "size": 2266373,
+   "thumb": "assets/.thumbs/普通人-周川.jpg"
   },
   {
    "name": "设定板_周川_含声纹.png",
    "path": "assets/设定板_周川_含声纹.png",
-   "size": 1448396
+   "size": 1448396,
+   "thumb": "assets/.thumbs/设定板_周川_含声纹.jpg"
   },
   {
    "name": "设定板_璃雾_含声纹.png",
    "path": "assets/设定板_璃雾_含声纹.png",
-   "size": 1228708
+   "size": 1228708,
+   "thumb": "assets/.thumbs/设定板_璃雾_含声纹.jpg"
   }
  ]
 }
